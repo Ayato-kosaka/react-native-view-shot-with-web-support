@@ -26,5 +26,8 @@
   "devDependencies": {
     "flow-bin": "^0.116.1",
     "react-native-windows": "^0.63.16"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1"
   }
 }
